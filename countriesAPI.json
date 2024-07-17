@@ -1,0 +1,83 @@
+{
+    "countries": [{
+            "country": "Afghanistan",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Albania",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Algeria",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Argentina",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Australia",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Brazil",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Canada",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "China",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Egypt",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "France",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Germany",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "India",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Japan",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Mexico",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Russia",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "South Africa",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Spain",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "Turkey",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "United Kingdom",
+            "flagUrl": "https://via.placeholder.com/150"
+        },
+        {
+            "country": "United States",
+            "flagUrl": "https://via.placeholder.com/150"
+        }
+    ]
+}
